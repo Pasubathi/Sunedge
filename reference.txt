@@ -1,0 +1,41 @@
+Db : wengatre_codecanyon
+Username : wengatre_codecanyon
+Password: gQ79zITY33pT
+
+php artisan serve
+
+adb devices 
+adb -s RZ8M93XB9DA reverse tcp:8000 tcp:8000  
+adb -s ZF6526JP29 reverse tcp:8000 tcp:8000
+adb -s 192.168.67.104:5555 reverse tcp:8000 tcp:8000
+
+yuvangopi4@gmail.com
+12345
+
+key : 8372e1d916062386052577213f
+803d5ff100652fbb755366856ca999da
+secret : a2eae9a51606238605f480c868
+854beea225b025d6ada29662bb2158ee
+
+https://themes-coder.com/product/react-ecommerce/
+
+mysunedge.com:2083
+mysunedg
+f570zyfwWeEk
+
+Login Details
+
+ID: sem10000
+pass: 931958
+
+gradlew clean
+
+
+
+npx react-native run-android --variant=release
+
+expo eject
+
+
+
+ 
